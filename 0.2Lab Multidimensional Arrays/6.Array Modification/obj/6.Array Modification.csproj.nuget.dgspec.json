@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\skgos\\source\\repos\\Lab Multidimensional Arrays\\6.Array Modification\\6.Array Modification.csproj": {}
+    "C:\\Users\\skgos\\Documents\\SoftuniRepo\\C-\\0.2Lab Multidimensional Arrays\\6.Array Modification\\6.Array Modification.csproj": {}
   },
   "projects": {
-    "C:\\Users\\skgos\\source\\repos\\Lab Multidimensional Arrays\\6.Array Modification\\6.Array Modification.csproj": {
+    "C:\\Users\\skgos\\Documents\\SoftuniRepo\\C-\\0.2Lab Multidimensional Arrays\\6.Array Modification\\6.Array Modification.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\skgos\\source\\repos\\Lab Multidimensional Arrays\\6.Array Modification\\6.Array Modification.csproj",
+        "projectUniqueName": "C:\\Users\\skgos\\Documents\\SoftuniRepo\\C-\\0.2Lab Multidimensional Arrays\\6.Array Modification\\6.Array Modification.csproj",
         "projectName": "6.Array Modification",
-        "projectPath": "C:\\Users\\skgos\\source\\repos\\Lab Multidimensional Arrays\\6.Array Modification\\6.Array Modification.csproj",
+        "projectPath": "C:\\Users\\skgos\\Documents\\SoftuniRepo\\C-\\0.2Lab Multidimensional Arrays\\6.Array Modification\\6.Array Modification.csproj",
         "packagesPath": "C:\\Users\\skgos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\skgos\\source\\repos\\Lab Multidimensional Arrays\\6.Array Modification\\obj\\",
+        "outputPath": "C:\\Users\\skgos\\Documents\\SoftuniRepo\\C-\\0.2Lab Multidimensional Arrays\\6.Array Modification\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\skgos\\AppData\\Roaming\\NuGet\\NuGet.Config",

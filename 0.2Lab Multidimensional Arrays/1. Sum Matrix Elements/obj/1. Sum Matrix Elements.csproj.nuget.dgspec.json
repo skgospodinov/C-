@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\skgos\\source\\repos\\Lab Multidimensional Arrays\\1. Sum Matrix Elements\\1. Sum Matrix Elements.csproj": {}
+    "C:\\Users\\skgos\\Documents\\SoftuniRepo\\C-\\0.2Lab Multidimensional Arrays\\1. Sum Matrix Elements\\1. Sum Matrix Elements.csproj": {}
   },
   "projects": {
-    "C:\\Users\\skgos\\source\\repos\\Lab Multidimensional Arrays\\1. Sum Matrix Elements\\1. Sum Matrix Elements.csproj": {
+    "C:\\Users\\skgos\\Documents\\SoftuniRepo\\C-\\0.2Lab Multidimensional Arrays\\1. Sum Matrix Elements\\1. Sum Matrix Elements.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\skgos\\source\\repos\\Lab Multidimensional Arrays\\1. Sum Matrix Elements\\1. Sum Matrix Elements.csproj",
+        "projectUniqueName": "C:\\Users\\skgos\\Documents\\SoftuniRepo\\C-\\0.2Lab Multidimensional Arrays\\1. Sum Matrix Elements\\1. Sum Matrix Elements.csproj",
         "projectName": "1. Sum Matrix Elements",
-        "projectPath": "C:\\Users\\skgos\\source\\repos\\Lab Multidimensional Arrays\\1. Sum Matrix Elements\\1. Sum Matrix Elements.csproj",
+        "projectPath": "C:\\Users\\skgos\\Documents\\SoftuniRepo\\C-\\0.2Lab Multidimensional Arrays\\1. Sum Matrix Elements\\1. Sum Matrix Elements.csproj",
         "packagesPath": "C:\\Users\\skgos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\skgos\\source\\repos\\Lab Multidimensional Arrays\\1. Sum Matrix Elements\\obj\\",
+        "outputPath": "C:\\Users\\skgos\\Documents\\SoftuniRepo\\C-\\0.2Lab Multidimensional Arrays\\1. Sum Matrix Elements\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\skgos\\AppData\\Roaming\\NuGet\\NuGet.Config",

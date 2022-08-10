@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\skgos\\source\\repos\\Lab Multidimensional Arrays\\5. Square with Maximum Sum\\5. Square with Maximum Sum.csproj": {}
+    "C:\\Users\\skgos\\Documents\\SoftuniRepo\\C-\\0.2Lab Multidimensional Arrays\\5. Square with Maximum Sum\\5. Square with Maximum Sum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\skgos\\source\\repos\\Lab Multidimensional Arrays\\5. Square with Maximum Sum\\5. Square with Maximum Sum.csproj": {
+    "C:\\Users\\skgos\\Documents\\SoftuniRepo\\C-\\0.2Lab Multidimensional Arrays\\5. Square with Maximum Sum\\5. Square with Maximum Sum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\skgos\\source\\repos\\Lab Multidimensional Arrays\\5. Square with Maximum Sum\\5. Square with Maximum Sum.csproj",
+        "projectUniqueName": "C:\\Users\\skgos\\Documents\\SoftuniRepo\\C-\\0.2Lab Multidimensional Arrays\\5. Square with Maximum Sum\\5. Square with Maximum Sum.csproj",
         "projectName": "5. Square with Maximum Sum",
-        "projectPath": "C:\\Users\\skgos\\source\\repos\\Lab Multidimensional Arrays\\5. Square with Maximum Sum\\5. Square with Maximum Sum.csproj",
+        "projectPath": "C:\\Users\\skgos\\Documents\\SoftuniRepo\\C-\\0.2Lab Multidimensional Arrays\\5. Square with Maximum Sum\\5. Square with Maximum Sum.csproj",
         "packagesPath": "C:\\Users\\skgos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\skgos\\source\\repos\\Lab Multidimensional Arrays\\5. Square with Maximum Sum\\obj\\",
+        "outputPath": "C:\\Users\\skgos\\Documents\\SoftuniRepo\\C-\\0.2Lab Multidimensional Arrays\\5. Square with Maximum Sum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\skgos\\AppData\\Roaming\\NuGet\\NuGet.Config",

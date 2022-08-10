@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\skgos\\source\\repos\\Lab Multidimensional Arrays\\2. Sum Matrix Columns\\2. Sum Matrix Columns.csproj",
+      "projectUniqueName": "C:\\Users\\skgos\\Documents\\SoftuniRepo\\C-\\0.2Lab Multidimensional Arrays\\2. Sum Matrix Columns\\2. Sum Matrix Columns.csproj",
       "projectName": "2. Sum Matrix Columns",
-      "projectPath": "C:\\Users\\skgos\\source\\repos\\Lab Multidimensional Arrays\\2. Sum Matrix Columns\\2. Sum Matrix Columns.csproj",
+      "projectPath": "C:\\Users\\skgos\\Documents\\SoftuniRepo\\C-\\0.2Lab Multidimensional Arrays\\2. Sum Matrix Columns\\2. Sum Matrix Columns.csproj",
       "packagesPath": "C:\\Users\\skgos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\skgos\\source\\repos\\Lab Multidimensional Arrays\\2. Sum Matrix Columns\\obj\\",
+      "outputPath": "C:\\Users\\skgos\\Documents\\SoftuniRepo\\C-\\0.2Lab Multidimensional Arrays\\2. Sum Matrix Columns\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\skgos\\AppData\\Roaming\\NuGet\\NuGet.Config",

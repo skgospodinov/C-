@@ -1,0 +1,14 @@
+C:\Users\skgos\Documents\SoftuniRepo\C-\0.2Lab Multidimensional Arrays\8.SpiralMatrix\obj\Debug\netcoreapp3.1\8.SpiralMatrix.csproj.AssemblyReference.cache
+C:\Users\skgos\Documents\SoftuniRepo\C-\0.2Lab Multidimensional Arrays\8.SpiralMatrix\obj\Debug\netcoreapp3.1\8.SpiralMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skgos\Documents\SoftuniRepo\C-\0.2Lab Multidimensional Arrays\8.SpiralMatrix\obj\Debug\netcoreapp3.1\8.SpiralMatrix.AssemblyInfoInputs.cache
+C:\Users\skgos\Documents\SoftuniRepo\C-\0.2Lab Multidimensional Arrays\8.SpiralMatrix\obj\Debug\netcoreapp3.1\8.SpiralMatrix.AssemblyInfo.cs
+C:\Users\skgos\Documents\SoftuniRepo\C-\0.2Lab Multidimensional Arrays\8.SpiralMatrix\obj\Debug\netcoreapp3.1\8.SpiralMatrix.csproj.CoreCompileInputs.cache
+C:\Users\skgos\Documents\SoftuniRepo\C-\0.2Lab Multidimensional Arrays\8.SpiralMatrix\bin\Debug\netcoreapp3.1\8.SpiralMatrix.exe
+C:\Users\skgos\Documents\SoftuniRepo\C-\0.2Lab Multidimensional Arrays\8.SpiralMatrix\bin\Debug\netcoreapp3.1\8.SpiralMatrix.deps.json
+C:\Users\skgos\Documents\SoftuniRepo\C-\0.2Lab Multidimensional Arrays\8.SpiralMatrix\bin\Debug\netcoreapp3.1\8.SpiralMatrix.runtimeconfig.json
+C:\Users\skgos\Documents\SoftuniRepo\C-\0.2Lab Multidimensional Arrays\8.SpiralMatrix\bin\Debug\netcoreapp3.1\8.SpiralMatrix.runtimeconfig.dev.json
+C:\Users\skgos\Documents\SoftuniRepo\C-\0.2Lab Multidimensional Arrays\8.SpiralMatrix\bin\Debug\netcoreapp3.1\8.SpiralMatrix.dll
+C:\Users\skgos\Documents\SoftuniRepo\C-\0.2Lab Multidimensional Arrays\8.SpiralMatrix\bin\Debug\netcoreapp3.1\8.SpiralMatrix.pdb
+C:\Users\skgos\Documents\SoftuniRepo\C-\0.2Lab Multidimensional Arrays\8.SpiralMatrix\obj\Debug\netcoreapp3.1\8.SpiralMatrix.dll
+C:\Users\skgos\Documents\SoftuniRepo\C-\0.2Lab Multidimensional Arrays\8.SpiralMatrix\obj\Debug\netcoreapp3.1\8.SpiralMatrix.pdb
+C:\Users\skgos\Documents\SoftuniRepo\C-\0.2Lab Multidimensional Arrays\8.SpiralMatrix\obj\Debug\netcoreapp3.1\8.SpiralMatrix.genruntimeconfig.cache

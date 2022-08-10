@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tIjDtpoybmyQOfpyDMFCSE7X3v9FP0r6xbVWkgXiRn9/UzM2E/TTHcYTk49C8tJKWSXFh5CQ3n1JiOICzcIAOg==",
+  "dgSpecHash": "7zTpmKjCRajKxo7sJBbpR4t3tyWaX4qIogSS02datbF6fZEra65etXV4h3+1Ubw7wOBxjuUaP5HQpAYezcHkLw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\Lab Multidimensional Arrays\\6.Array Modification\\6.Array Modification.csproj",
+  "projectFilePath": "C:\\Users\\skgos\\Documents\\SoftuniRepo\\C-\\0.2Lab Multidimensional Arrays\\6.Array Modification\\6.Array Modification.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
   ],

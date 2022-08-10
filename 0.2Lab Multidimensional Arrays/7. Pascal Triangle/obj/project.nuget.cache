@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6J5yWG6gk6rus3rg42Kfh+3pvSefuRmtio9LgrHCmX4gd2howQRAOfNMZ3yptmsM0jklXygtrxNRyNZd+os2Yw==",
+  "dgSpecHash": "1goIoYQe+jEioDjlfR65Db/2xcEnxLH7zttj+5ZuNnrjHkUm7PdbQmiVbnx0+ToJEBUUjBFyv/tXpirk6LdYQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\Lab Multidimensional Arrays\\7. Pascal Triangle\\7. Pascal Triangle.csproj",
+  "projectFilePath": "C:\\Users\\skgos\\Documents\\SoftuniRepo\\C-\\0.2Lab Multidimensional Arrays\\7. Pascal Triangle\\7. Pascal Triangle.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
   ],

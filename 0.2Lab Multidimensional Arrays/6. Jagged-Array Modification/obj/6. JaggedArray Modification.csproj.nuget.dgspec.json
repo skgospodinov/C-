@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\skgos\\source\\repos\\Lab Multidimensional Arrays\\6. Jagged-Array Modification\\6. JaggedArray Modification.csproj": {}
+    "C:\\Users\\skgos\\Documents\\SoftuniRepo\\C-\\0.2Lab Multidimensional Arrays\\6. Jagged-Array Modification\\6. JaggedArray Modification.csproj": {}
   },
   "projects": {
-    "C:\\Users\\skgos\\source\\repos\\Lab Multidimensional Arrays\\6. Jagged-Array Modification\\6. JaggedArray Modification.csproj": {
+    "C:\\Users\\skgos\\Documents\\SoftuniRepo\\C-\\0.2Lab Multidimensional Arrays\\6. Jagged-Array Modification\\6. JaggedArray Modification.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\skgos\\source\\repos\\Lab Multidimensional Arrays\\6. Jagged-Array Modification\\6. JaggedArray Modification.csproj",
+        "projectUniqueName": "C:\\Users\\skgos\\Documents\\SoftuniRepo\\C-\\0.2Lab Multidimensional Arrays\\6. Jagged-Array Modification\\6. JaggedArray Modification.csproj",
         "projectName": "6. JaggedArray Modification",
-        "projectPath": "C:\\Users\\skgos\\source\\repos\\Lab Multidimensional Arrays\\6. Jagged-Array Modification\\6. JaggedArray Modification.csproj",
+        "projectPath": "C:\\Users\\skgos\\Documents\\SoftuniRepo\\C-\\0.2Lab Multidimensional Arrays\\6. Jagged-Array Modification\\6. JaggedArray Modification.csproj",
         "packagesPath": "C:\\Users\\skgos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\skgos\\source\\repos\\Lab Multidimensional Arrays\\6. Jagged-Array Modification\\obj\\",
+        "outputPath": "C:\\Users\\skgos\\Documents\\SoftuniRepo\\C-\\0.2Lab Multidimensional Arrays\\6. Jagged-Array Modification\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\skgos\\AppData\\Roaming\\NuGet\\NuGet.Config",

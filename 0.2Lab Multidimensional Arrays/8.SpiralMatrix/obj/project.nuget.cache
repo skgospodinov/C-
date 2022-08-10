@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xVOgqRKZpIULBmH2/ODlFsmlZxw8yo7vcq5oKX32aEMZDNCr0XG9y9yGI+9TOzgnVbiNLl6Ma9BM+IOkRSnqNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skgos\\Documents\\SoftuniRepo\\C-\\0.2Lab Multidimensional Arrays\\8.SpiralMatrix\\8.SpiralMatrix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

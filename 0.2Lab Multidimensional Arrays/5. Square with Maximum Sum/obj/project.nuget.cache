@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JxZjKyrXO9ucAqVRBg3iFX3ElAE4YXx9KbJCtQbJfFwk0StF8NB9vbvAFV/qWeoxcxfHmeDGLfraTFoPydPuvw==",
+  "dgSpecHash": "+SBfp6Iq773Iq4l+siZoGGAJK/NEo9aF3rgrXOAwlqADkxJrAZz7C4SFCJkiXUyuchCP7gp9w/S0Vp0pBE/YAA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\Lab Multidimensional Arrays\\5. Square with Maximum Sum\\5. Square with Maximum Sum.csproj",
+  "projectFilePath": "C:\\Users\\skgos\\Documents\\SoftuniRepo\\C-\\0.2Lab Multidimensional Arrays\\5. Square with Maximum Sum\\5. Square with Maximum Sum.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
   ],
