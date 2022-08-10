@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t60k62CmiMTh5iu4d6itINy3qKYyLVrcdGIz9H4+VuGURu2ctnHw6BvoWnVC9rhfP03OUS+UQ/qsEsLS34M2oA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skgos\\Documents\\SoftuniRepo\\C-\\0.2Lab Multidimensional Arrays\\3. Primary Diagonal\\3. Primary Diagonal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
