@@ -1,0 +1,14 @@
+C:\Users\skgos\source\repos\Defining Classes\Enumerations\bin\Debug\netcoreapp3.1\Enumerations.exe
+C:\Users\skgos\source\repos\Defining Classes\Enumerations\bin\Debug\netcoreapp3.1\Enumerations.deps.json
+C:\Users\skgos\source\repos\Defining Classes\Enumerations\bin\Debug\netcoreapp3.1\Enumerations.runtimeconfig.json
+C:\Users\skgos\source\repos\Defining Classes\Enumerations\bin\Debug\netcoreapp3.1\Enumerations.runtimeconfig.dev.json
+C:\Users\skgos\source\repos\Defining Classes\Enumerations\bin\Debug\netcoreapp3.1\Enumerations.dll
+C:\Users\skgos\source\repos\Defining Classes\Enumerations\bin\Debug\netcoreapp3.1\Enumerations.pdb
+C:\Users\skgos\source\repos\Defining Classes\Enumerations\obj\Debug\netcoreapp3.1\Enumerations.csproj.AssemblyReference.cache
+C:\Users\skgos\source\repos\Defining Classes\Enumerations\obj\Debug\netcoreapp3.1\Enumerations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skgos\source\repos\Defining Classes\Enumerations\obj\Debug\netcoreapp3.1\Enumerations.AssemblyInfoInputs.cache
+C:\Users\skgos\source\repos\Defining Classes\Enumerations\obj\Debug\netcoreapp3.1\Enumerations.AssemblyInfo.cs
+C:\Users\skgos\source\repos\Defining Classes\Enumerations\obj\Debug\netcoreapp3.1\Enumerations.csproj.CoreCompileInputs.cache
+C:\Users\skgos\source\repos\Defining Classes\Enumerations\obj\Debug\netcoreapp3.1\Enumerations.dll
+C:\Users\skgos\source\repos\Defining Classes\Enumerations\obj\Debug\netcoreapp3.1\Enumerations.pdb
+C:\Users\skgos\source\repos\Defining Classes\Enumerations\obj\Debug\netcoreapp3.1\Enumerations.genruntimeconfig.cache

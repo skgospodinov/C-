@@ -1,0 +1,14 @@
+C:\Users\skgos\source\repos\1. Count Same Values in Array\2. Average Student Grades\bin\Debug\netcoreapp3.1\2. Average Student Grades.exe
+C:\Users\skgos\source\repos\1. Count Same Values in Array\2. Average Student Grades\bin\Debug\netcoreapp3.1\2. Average Student Grades.deps.json
+C:\Users\skgos\source\repos\1. Count Same Values in Array\2. Average Student Grades\bin\Debug\netcoreapp3.1\2. Average Student Grades.runtimeconfig.json
+C:\Users\skgos\source\repos\1. Count Same Values in Array\2. Average Student Grades\bin\Debug\netcoreapp3.1\2. Average Student Grades.runtimeconfig.dev.json
+C:\Users\skgos\source\repos\1. Count Same Values in Array\2. Average Student Grades\bin\Debug\netcoreapp3.1\2. Average Student Grades.dll
+C:\Users\skgos\source\repos\1. Count Same Values in Array\2. Average Student Grades\bin\Debug\netcoreapp3.1\2. Average Student Grades.pdb
+C:\Users\skgos\source\repos\1. Count Same Values in Array\2. Average Student Grades\obj\Debug\netcoreapp3.1\2. Average Student Grades.csproj.AssemblyReference.cache
+C:\Users\skgos\source\repos\1. Count Same Values in Array\2. Average Student Grades\obj\Debug\netcoreapp3.1\2. Average Student Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skgos\source\repos\1. Count Same Values in Array\2. Average Student Grades\obj\Debug\netcoreapp3.1\2. Average Student Grades.AssemblyInfoInputs.cache
+C:\Users\skgos\source\repos\1. Count Same Values in Array\2. Average Student Grades\obj\Debug\netcoreapp3.1\2. Average Student Grades.AssemblyInfo.cs
+C:\Users\skgos\source\repos\1. Count Same Values in Array\2. Average Student Grades\obj\Debug\netcoreapp3.1\2. Average Student Grades.csproj.CoreCompileInputs.cache
+C:\Users\skgos\source\repos\1. Count Same Values in Array\2. Average Student Grades\obj\Debug\netcoreapp3.1\2. Average Student Grades.dll
+C:\Users\skgos\source\repos\1. Count Same Values in Array\2. Average Student Grades\obj\Debug\netcoreapp3.1\2. Average Student Grades.pdb
+C:\Users\skgos\source\repos\1. Count Same Values in Array\2. Average Student Grades\obj\Debug\netcoreapp3.1\2. Average Student Grades.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wiIbKStqz387GVS5ja2krYCkuSE6cta33No+2GKMy6KiRx7N6uQVJ+b4TVyvXKDtK1WBe3I/mE6qiThSyAmj2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\FunctionalPrograming\\6.Reverse and Exclude\\6.Reverse and Exclude.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

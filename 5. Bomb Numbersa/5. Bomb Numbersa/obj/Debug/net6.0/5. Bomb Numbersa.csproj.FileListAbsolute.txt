@@ -1,0 +1,15 @@
+C:\Users\skgos\source\repos\5. Bomb Numbersa\5. Bomb Numbersa\bin\Debug\net6.0\5. Bomb Numbersa.exe
+C:\Users\skgos\source\repos\5. Bomb Numbersa\5. Bomb Numbersa\bin\Debug\net6.0\5. Bomb Numbersa.deps.json
+C:\Users\skgos\source\repos\5. Bomb Numbersa\5. Bomb Numbersa\bin\Debug\net6.0\5. Bomb Numbersa.runtimeconfig.json
+C:\Users\skgos\source\repos\5. Bomb Numbersa\5. Bomb Numbersa\bin\Debug\net6.0\5. Bomb Numbersa.dll
+C:\Users\skgos\source\repos\5. Bomb Numbersa\5. Bomb Numbersa\bin\Debug\net6.0\5. Bomb Numbersa.pdb
+C:\Users\skgos\source\repos\5. Bomb Numbersa\5. Bomb Numbersa\obj\Debug\net6.0\5. Bomb Numbersa.csproj.AssemblyReference.cache
+C:\Users\skgos\source\repos\5. Bomb Numbersa\5. Bomb Numbersa\obj\Debug\net6.0\5. Bomb Numbersa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skgos\source\repos\5. Bomb Numbersa\5. Bomb Numbersa\obj\Debug\net6.0\5. Bomb Numbersa.AssemblyInfoInputs.cache
+C:\Users\skgos\source\repos\5. Bomb Numbersa\5. Bomb Numbersa\obj\Debug\net6.0\5. Bomb Numbersa.AssemblyInfo.cs
+C:\Users\skgos\source\repos\5. Bomb Numbersa\5. Bomb Numbersa\obj\Debug\net6.0\5. Bomb Numbersa.csproj.CoreCompileInputs.cache
+C:\Users\skgos\source\repos\5. Bomb Numbersa\5. Bomb Numbersa\obj\Debug\net6.0\5. Bomb Numbersa.dll
+C:\Users\skgos\source\repos\5. Bomb Numbersa\5. Bomb Numbersa\obj\Debug\net6.0\refint\5. Bomb Numbersa.dll
+C:\Users\skgos\source\repos\5. Bomb Numbersa\5. Bomb Numbersa\obj\Debug\net6.0\5. Bomb Numbersa.pdb
+C:\Users\skgos\source\repos\5. Bomb Numbersa\5. Bomb Numbersa\obj\Debug\net6.0\5. Bomb Numbersa.genruntimeconfig.cache
+C:\Users\skgos\source\repos\5. Bomb Numbersa\5. Bomb Numbersa\obj\Debug\net6.0\ref\5. Bomb Numbersa.dll

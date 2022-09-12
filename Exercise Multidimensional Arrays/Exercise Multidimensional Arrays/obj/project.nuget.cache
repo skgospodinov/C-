@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/l0SzjUvLxKzE/LThGqVehFSBd1tlpGN3Y5YoFZzdmK0JTst9EXbaCFXTAd6Ynox7g84FwfJ635xSBwo67HVPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\Exercise Multidimensional Arrays\\Exercise Multidimensional Arrays\\Exercise Multidimensional Arrays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

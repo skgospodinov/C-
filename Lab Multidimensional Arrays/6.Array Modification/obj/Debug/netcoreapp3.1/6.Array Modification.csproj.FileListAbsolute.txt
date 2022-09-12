@@ -1,0 +1,14 @@
+C:\Users\skgos\source\repos\Lab Multidimensional Arrays\6.Array Modification\bin\Debug\netcoreapp3.1\6.Array Modification.exe
+C:\Users\skgos\source\repos\Lab Multidimensional Arrays\6.Array Modification\bin\Debug\netcoreapp3.1\6.Array Modification.deps.json
+C:\Users\skgos\source\repos\Lab Multidimensional Arrays\6.Array Modification\bin\Debug\netcoreapp3.1\6.Array Modification.runtimeconfig.json
+C:\Users\skgos\source\repos\Lab Multidimensional Arrays\6.Array Modification\bin\Debug\netcoreapp3.1\6.Array Modification.runtimeconfig.dev.json
+C:\Users\skgos\source\repos\Lab Multidimensional Arrays\6.Array Modification\bin\Debug\netcoreapp3.1\6.Array Modification.dll
+C:\Users\skgos\source\repos\Lab Multidimensional Arrays\6.Array Modification\bin\Debug\netcoreapp3.1\6.Array Modification.pdb
+C:\Users\skgos\source\repos\Lab Multidimensional Arrays\6.Array Modification\obj\Debug\netcoreapp3.1\6.Array Modification.csproj.AssemblyReference.cache
+C:\Users\skgos\source\repos\Lab Multidimensional Arrays\6.Array Modification\obj\Debug\netcoreapp3.1\6.Array Modification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skgos\source\repos\Lab Multidimensional Arrays\6.Array Modification\obj\Debug\netcoreapp3.1\6.Array Modification.AssemblyInfoInputs.cache
+C:\Users\skgos\source\repos\Lab Multidimensional Arrays\6.Array Modification\obj\Debug\netcoreapp3.1\6.Array Modification.AssemblyInfo.cs
+C:\Users\skgos\source\repos\Lab Multidimensional Arrays\6.Array Modification\obj\Debug\netcoreapp3.1\6.Array Modification.csproj.CoreCompileInputs.cache
+C:\Users\skgos\source\repos\Lab Multidimensional Arrays\6.Array Modification\obj\Debug\netcoreapp3.1\6.Array Modification.dll
+C:\Users\skgos\source\repos\Lab Multidimensional Arrays\6.Array Modification\obj\Debug\netcoreapp3.1\6.Array Modification.pdb
+C:\Users\skgos\source\repos\Lab Multidimensional Arrays\6.Array Modification\obj\Debug\netcoreapp3.1\6.Array Modification.genruntimeconfig.cache

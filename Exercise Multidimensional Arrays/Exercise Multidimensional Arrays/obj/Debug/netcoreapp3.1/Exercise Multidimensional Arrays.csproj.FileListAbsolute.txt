@@ -1,0 +1,14 @@
+C:\Users\skgos\source\repos\1. Diagonal Difference\Exercise Multidimensional Arrays\bin\Debug\netcoreapp3.1\Exercise Multidimensional Arrays.exe
+C:\Users\skgos\source\repos\1. Diagonal Difference\Exercise Multidimensional Arrays\bin\Debug\netcoreapp3.1\Exercise Multidimensional Arrays.deps.json
+C:\Users\skgos\source\repos\1. Diagonal Difference\Exercise Multidimensional Arrays\bin\Debug\netcoreapp3.1\Exercise Multidimensional Arrays.runtimeconfig.json
+C:\Users\skgos\source\repos\1. Diagonal Difference\Exercise Multidimensional Arrays\bin\Debug\netcoreapp3.1\Exercise Multidimensional Arrays.runtimeconfig.dev.json
+C:\Users\skgos\source\repos\1. Diagonal Difference\Exercise Multidimensional Arrays\bin\Debug\netcoreapp3.1\Exercise Multidimensional Arrays.dll
+C:\Users\skgos\source\repos\1. Diagonal Difference\Exercise Multidimensional Arrays\bin\Debug\netcoreapp3.1\Exercise Multidimensional Arrays.pdb
+C:\Users\skgos\source\repos\1. Diagonal Difference\Exercise Multidimensional Arrays\obj\Debug\netcoreapp3.1\Exercise Multidimensional Arrays.csproj.AssemblyReference.cache
+C:\Users\skgos\source\repos\1. Diagonal Difference\Exercise Multidimensional Arrays\obj\Debug\netcoreapp3.1\Exercise Multidimensional Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skgos\source\repos\1. Diagonal Difference\Exercise Multidimensional Arrays\obj\Debug\netcoreapp3.1\Exercise Multidimensional Arrays.AssemblyInfoInputs.cache
+C:\Users\skgos\source\repos\1. Diagonal Difference\Exercise Multidimensional Arrays\obj\Debug\netcoreapp3.1\Exercise Multidimensional Arrays.AssemblyInfo.cs
+C:\Users\skgos\source\repos\1. Diagonal Difference\Exercise Multidimensional Arrays\obj\Debug\netcoreapp3.1\Exercise Multidimensional Arrays.csproj.CoreCompileInputs.cache
+C:\Users\skgos\source\repos\1. Diagonal Difference\Exercise Multidimensional Arrays\obj\Debug\netcoreapp3.1\Exercise Multidimensional Arrays.dll
+C:\Users\skgos\source\repos\1. Diagonal Difference\Exercise Multidimensional Arrays\obj\Debug\netcoreapp3.1\Exercise Multidimensional Arrays.pdb
+C:\Users\skgos\source\repos\1. Diagonal Difference\Exercise Multidimensional Arrays\obj\Debug\netcoreapp3.1\Exercise Multidimensional Arrays.genruntimeconfig.cache

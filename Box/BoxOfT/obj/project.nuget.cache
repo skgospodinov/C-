@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EFRovH/d2O1t1Q899QPAMTvI5+MMIBfJEDWXSRDWk4/InuvBtz/OkaDvkUGhpx3qVI40Tbi0UytwfWBJFkJeRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\Box\\BoxOfT\\BoxOfT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

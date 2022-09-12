@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xBgDaMBb1PgZ7S+1Hcg5VlQTpitDHVCJY1TCUMwBj59Lc69j0BFjvaZyoDKRE2mbaUzmneXhb/jHCv+WY7KEWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\Defining Classes\\P5SoftUniParking\\P5SoftUniParking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

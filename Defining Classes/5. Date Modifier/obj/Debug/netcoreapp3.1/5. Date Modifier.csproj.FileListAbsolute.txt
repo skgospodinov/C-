@@ -1,0 +1,14 @@
+C:\Users\skgos\source\repos\Defining Classes\5. Date Modifier\bin\Debug\netcoreapp3.1\5. Date Modifier.exe
+C:\Users\skgos\source\repos\Defining Classes\5. Date Modifier\bin\Debug\netcoreapp3.1\5. Date Modifier.deps.json
+C:\Users\skgos\source\repos\Defining Classes\5. Date Modifier\bin\Debug\netcoreapp3.1\5. Date Modifier.runtimeconfig.json
+C:\Users\skgos\source\repos\Defining Classes\5. Date Modifier\bin\Debug\netcoreapp3.1\5. Date Modifier.runtimeconfig.dev.json
+C:\Users\skgos\source\repos\Defining Classes\5. Date Modifier\bin\Debug\netcoreapp3.1\5. Date Modifier.dll
+C:\Users\skgos\source\repos\Defining Classes\5. Date Modifier\bin\Debug\netcoreapp3.1\5. Date Modifier.pdb
+C:\Users\skgos\source\repos\Defining Classes\5. Date Modifier\obj\Debug\netcoreapp3.1\5. Date Modifier.csproj.AssemblyReference.cache
+C:\Users\skgos\source\repos\Defining Classes\5. Date Modifier\obj\Debug\netcoreapp3.1\5. Date Modifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skgos\source\repos\Defining Classes\5. Date Modifier\obj\Debug\netcoreapp3.1\5. Date Modifier.AssemblyInfoInputs.cache
+C:\Users\skgos\source\repos\Defining Classes\5. Date Modifier\obj\Debug\netcoreapp3.1\5. Date Modifier.AssemblyInfo.cs
+C:\Users\skgos\source\repos\Defining Classes\5. Date Modifier\obj\Debug\netcoreapp3.1\5. Date Modifier.csproj.CoreCompileInputs.cache
+C:\Users\skgos\source\repos\Defining Classes\5. Date Modifier\obj\Debug\netcoreapp3.1\5. Date Modifier.dll
+C:\Users\skgos\source\repos\Defining Classes\5. Date Modifier\obj\Debug\netcoreapp3.1\5. Date Modifier.pdb
+C:\Users\skgos\source\repos\Defining Classes\5. Date Modifier\obj\Debug\netcoreapp3.1\5. Date Modifier.genruntimeconfig.cache

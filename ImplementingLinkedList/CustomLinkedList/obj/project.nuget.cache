@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1hlCA+qfVU1sLjED146VDGTd4n/uOBXeU7MpdN6hrKynAm6ngPib9YaOJ8fcb2PtLylULK3CMQtMNF0W/tllmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\ImplementingLinkedList\\CustomLinkedList\\CustomLinkedList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

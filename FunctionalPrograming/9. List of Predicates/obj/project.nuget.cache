@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TFVAFf/9JXi7aglsaN1pRpAadiPcAg2icPatWmMNEW8DVe+6sRdksRr0pl4MSduBDpPOGlz2eMOWU6rkpBWLHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\FunctionalPrograming\\9. List of Predicates\\9. List of Predicates.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

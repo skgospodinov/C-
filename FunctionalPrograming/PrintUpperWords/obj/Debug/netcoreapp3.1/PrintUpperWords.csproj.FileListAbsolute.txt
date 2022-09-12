@@ -1,0 +1,14 @@
+C:\Users\skgos\source\repos\FunctionalPrograming\PrintUpperWords\bin\Debug\netcoreapp3.1\PrintUpperWords.exe
+C:\Users\skgos\source\repos\FunctionalPrograming\PrintUpperWords\bin\Debug\netcoreapp3.1\PrintUpperWords.deps.json
+C:\Users\skgos\source\repos\FunctionalPrograming\PrintUpperWords\bin\Debug\netcoreapp3.1\PrintUpperWords.runtimeconfig.json
+C:\Users\skgos\source\repos\FunctionalPrograming\PrintUpperWords\bin\Debug\netcoreapp3.1\PrintUpperWords.runtimeconfig.dev.json
+C:\Users\skgos\source\repos\FunctionalPrograming\PrintUpperWords\bin\Debug\netcoreapp3.1\PrintUpperWords.dll
+C:\Users\skgos\source\repos\FunctionalPrograming\PrintUpperWords\bin\Debug\netcoreapp3.1\PrintUpperWords.pdb
+C:\Users\skgos\source\repos\FunctionalPrograming\PrintUpperWords\obj\Debug\netcoreapp3.1\PrintUpperWords.csproj.AssemblyReference.cache
+C:\Users\skgos\source\repos\FunctionalPrograming\PrintUpperWords\obj\Debug\netcoreapp3.1\PrintUpperWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skgos\source\repos\FunctionalPrograming\PrintUpperWords\obj\Debug\netcoreapp3.1\PrintUpperWords.AssemblyInfoInputs.cache
+C:\Users\skgos\source\repos\FunctionalPrograming\PrintUpperWords\obj\Debug\netcoreapp3.1\PrintUpperWords.AssemblyInfo.cs
+C:\Users\skgos\source\repos\FunctionalPrograming\PrintUpperWords\obj\Debug\netcoreapp3.1\PrintUpperWords.csproj.CoreCompileInputs.cache
+C:\Users\skgos\source\repos\FunctionalPrograming\PrintUpperWords\obj\Debug\netcoreapp3.1\PrintUpperWords.dll
+C:\Users\skgos\source\repos\FunctionalPrograming\PrintUpperWords\obj\Debug\netcoreapp3.1\PrintUpperWords.pdb
+C:\Users\skgos\source\repos\FunctionalPrograming\PrintUpperWords\obj\Debug\netcoreapp3.1\PrintUpperWords.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kI3pMWpqCJPHSok29O6lPE90dWNiwsioT9Rmhb/dXYBAoiJNNwytDaeGsh6RgNn4hsTxWx1/gJdj3Rdj0/0FAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\1. Count Same Values in Array\\4. Product Shop\\4. Product Shop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

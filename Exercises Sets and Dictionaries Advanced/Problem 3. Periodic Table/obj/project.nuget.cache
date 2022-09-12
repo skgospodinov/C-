@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+dLo0cdMayOeHEdazQVKSCJZ8biQ7xVcmFv2XWFSQ6V5hlXlop5mgN3iY+8VWSGH4ylLwrtP5mffW4zUVHJHQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\Exercises Sets and Dictionaries Advanced\\Problem 3. Periodic Table\\Problem 3. Periodic Table.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

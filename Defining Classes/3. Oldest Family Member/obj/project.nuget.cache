@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pEJr1PUNFq3TiPHpW8rXSl7KchxkJ6IzEnKxZ8VptP2/eE89IWjd+oLoB/+JJDcugug3dizrqAXNYWGzIaA8kw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\Defining Classes\\3. Oldest Family Member\\3. Oldest Family Member.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

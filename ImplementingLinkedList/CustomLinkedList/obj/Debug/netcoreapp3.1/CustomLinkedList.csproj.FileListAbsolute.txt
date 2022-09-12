@@ -1,0 +1,14 @@
+C:\Users\skgos\source\repos\ImplementingLinkedList\CustomLinkedList\bin\Debug\netcoreapp3.1\CustomLinkedList.exe
+C:\Users\skgos\source\repos\ImplementingLinkedList\CustomLinkedList\bin\Debug\netcoreapp3.1\CustomLinkedList.deps.json
+C:\Users\skgos\source\repos\ImplementingLinkedList\CustomLinkedList\bin\Debug\netcoreapp3.1\CustomLinkedList.runtimeconfig.json
+C:\Users\skgos\source\repos\ImplementingLinkedList\CustomLinkedList\bin\Debug\netcoreapp3.1\CustomLinkedList.runtimeconfig.dev.json
+C:\Users\skgos\source\repos\ImplementingLinkedList\CustomLinkedList\bin\Debug\netcoreapp3.1\CustomLinkedList.dll
+C:\Users\skgos\source\repos\ImplementingLinkedList\CustomLinkedList\bin\Debug\netcoreapp3.1\CustomLinkedList.pdb
+C:\Users\skgos\source\repos\ImplementingLinkedList\CustomLinkedList\obj\Debug\netcoreapp3.1\CustomLinkedList.csproj.AssemblyReference.cache
+C:\Users\skgos\source\repos\ImplementingLinkedList\CustomLinkedList\obj\Debug\netcoreapp3.1\CustomLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skgos\source\repos\ImplementingLinkedList\CustomLinkedList\obj\Debug\netcoreapp3.1\CustomLinkedList.AssemblyInfoInputs.cache
+C:\Users\skgos\source\repos\ImplementingLinkedList\CustomLinkedList\obj\Debug\netcoreapp3.1\CustomLinkedList.AssemblyInfo.cs
+C:\Users\skgos\source\repos\ImplementingLinkedList\CustomLinkedList\obj\Debug\netcoreapp3.1\CustomLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\skgos\source\repos\ImplementingLinkedList\CustomLinkedList\obj\Debug\netcoreapp3.1\CustomLinkedList.dll
+C:\Users\skgos\source\repos\ImplementingLinkedList\CustomLinkedList\obj\Debug\netcoreapp3.1\CustomLinkedList.pdb
+C:\Users\skgos\source\repos\ImplementingLinkedList\CustomLinkedList\obj\Debug\netcoreapp3.1\CustomLinkedList.genruntimeconfig.cache

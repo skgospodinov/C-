@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ITaC6J8edWbqxomZU3Y+nG85RiwuLmDcq3P7HExdtFq1qA+GCRxLTugORn+d/+R/mo5kv0yTOgvZvRCpqwI6Mw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\Defining Classes\\Enumerations\\Enumerations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

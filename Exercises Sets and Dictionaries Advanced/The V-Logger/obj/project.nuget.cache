@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6S7dYnBWE/Pb1xl/X8xC3Hv+BP2XImR21tCnaQSAaeH859u7kkp78LmBvCdJ5DexwFl6CeWvnPAXevAyzmemxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\Exercises Sets and Dictionaries Advanced\\The V-Logger\\The V-Logger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

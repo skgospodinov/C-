@@ -1,0 +1,15 @@
+C:\Users\skgos\source\repos\2. Passed\3. Passed or Failed\bin\Debug\net6.0\3. Passed or Failed.exe
+C:\Users\skgos\source\repos\2. Passed\3. Passed or Failed\bin\Debug\net6.0\3. Passed or Failed.deps.json
+C:\Users\skgos\source\repos\2. Passed\3. Passed or Failed\bin\Debug\net6.0\3. Passed or Failed.runtimeconfig.json
+C:\Users\skgos\source\repos\2. Passed\3. Passed or Failed\bin\Debug\net6.0\3. Passed or Failed.dll
+C:\Users\skgos\source\repos\2. Passed\3. Passed or Failed\bin\Debug\net6.0\3. Passed or Failed.pdb
+C:\Users\skgos\source\repos\2. Passed\3. Passed or Failed\obj\Debug\net6.0\3. Passed or Failed.csproj.AssemblyReference.cache
+C:\Users\skgos\source\repos\2. Passed\3. Passed or Failed\obj\Debug\net6.0\3. Passed or Failed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skgos\source\repos\2. Passed\3. Passed or Failed\obj\Debug\net6.0\3. Passed or Failed.AssemblyInfoInputs.cache
+C:\Users\skgos\source\repos\2. Passed\3. Passed or Failed\obj\Debug\net6.0\3. Passed or Failed.AssemblyInfo.cs
+C:\Users\skgos\source\repos\2. Passed\3. Passed or Failed\obj\Debug\net6.0\3. Passed or Failed.csproj.CoreCompileInputs.cache
+C:\Users\skgos\source\repos\2. Passed\3. Passed or Failed\obj\Debug\net6.0\3. Passed or Failed.dll
+C:\Users\skgos\source\repos\2. Passed\3. Passed or Failed\obj\Debug\net6.0\refint\3. Passed or Failed.dll
+C:\Users\skgos\source\repos\2. Passed\3. Passed or Failed\obj\Debug\net6.0\3. Passed or Failed.pdb
+C:\Users\skgos\source\repos\2. Passed\3. Passed or Failed\obj\Debug\net6.0\3. Passed or Failed.genruntimeconfig.cache
+C:\Users\skgos\source\repos\2. Passed\3. Passed or Failed\obj\Debug\net6.0\ref\3. Passed or Failed.dll

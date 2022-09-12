@@ -1,0 +1,15 @@
+C:\Users\skgos\source\repos\2. Odd Occurrences\2. Odd Occurrences\bin\Debug\net6.0\2. Odd Occurrences.exe
+C:\Users\skgos\source\repos\2. Odd Occurrences\2. Odd Occurrences\bin\Debug\net6.0\2. Odd Occurrences.deps.json
+C:\Users\skgos\source\repos\2. Odd Occurrences\2. Odd Occurrences\bin\Debug\net6.0\2. Odd Occurrences.runtimeconfig.json
+C:\Users\skgos\source\repos\2. Odd Occurrences\2. Odd Occurrences\bin\Debug\net6.0\2. Odd Occurrences.dll
+C:\Users\skgos\source\repos\2. Odd Occurrences\2. Odd Occurrences\bin\Debug\net6.0\2. Odd Occurrences.pdb
+C:\Users\skgos\source\repos\2. Odd Occurrences\2. Odd Occurrences\obj\Debug\net6.0\2. Odd Occurrences.csproj.AssemblyReference.cache
+C:\Users\skgos\source\repos\2. Odd Occurrences\2. Odd Occurrences\obj\Debug\net6.0\2. Odd Occurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skgos\source\repos\2. Odd Occurrences\2. Odd Occurrences\obj\Debug\net6.0\2. Odd Occurrences.AssemblyInfoInputs.cache
+C:\Users\skgos\source\repos\2. Odd Occurrences\2. Odd Occurrences\obj\Debug\net6.0\2. Odd Occurrences.AssemblyInfo.cs
+C:\Users\skgos\source\repos\2. Odd Occurrences\2. Odd Occurrences\obj\Debug\net6.0\2. Odd Occurrences.csproj.CoreCompileInputs.cache
+C:\Users\skgos\source\repos\2. Odd Occurrences\2. Odd Occurrences\obj\Debug\net6.0\2. Odd Occurrences.dll
+C:\Users\skgos\source\repos\2. Odd Occurrences\2. Odd Occurrences\obj\Debug\net6.0\refint\2. Odd Occurrences.dll
+C:\Users\skgos\source\repos\2. Odd Occurrences\2. Odd Occurrences\obj\Debug\net6.0\2. Odd Occurrences.pdb
+C:\Users\skgos\source\repos\2. Odd Occurrences\2. Odd Occurrences\obj\Debug\net6.0\2. Odd Occurrences.genruntimeconfig.cache
+C:\Users\skgos\source\repos\2. Odd Occurrences\2. Odd Occurrences\obj\Debug\net6.0\ref\2. Odd Occurrences.dll

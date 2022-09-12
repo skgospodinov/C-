@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\skgos\\source\\repos\\2. Passed\\4. Back in 30 Minutes\\4. Back in 30 Minutes.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\skgos\\source\\repos\\2. Passed\\4. Back in 30 Minutes\\4. Back in 30 Minutes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\skgos\\source\\repos\\2. Passed\\4. Back in 30 Minutes\\4. Back in 30 Minutes.csproj",
+        "projectName": "4. Back in 30 Minutes",
+        "projectPath": "C:\\Users\\skgos\\source\\repos\\2. Passed\\4. Back in 30 Minutes\\4. Back in 30 Minutes.csproj",
+        "packagesPath": "C:\\Users\\skgos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\skgos\\source\\repos\\2. Passed\\4. Back in 30 Minutes\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\skgos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

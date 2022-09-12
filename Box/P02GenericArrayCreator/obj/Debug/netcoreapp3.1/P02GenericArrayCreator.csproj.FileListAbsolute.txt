@@ -1,0 +1,14 @@
+C:\Users\skgos\source\repos\Box\P02GenericArrayCreator\bin\Debug\netcoreapp3.1\P02GenericArrayCreator.exe
+C:\Users\skgos\source\repos\Box\P02GenericArrayCreator\bin\Debug\netcoreapp3.1\P02GenericArrayCreator.deps.json
+C:\Users\skgos\source\repos\Box\P02GenericArrayCreator\bin\Debug\netcoreapp3.1\P02GenericArrayCreator.runtimeconfig.json
+C:\Users\skgos\source\repos\Box\P02GenericArrayCreator\bin\Debug\netcoreapp3.1\P02GenericArrayCreator.runtimeconfig.dev.json
+C:\Users\skgos\source\repos\Box\P02GenericArrayCreator\bin\Debug\netcoreapp3.1\P02GenericArrayCreator.dll
+C:\Users\skgos\source\repos\Box\P02GenericArrayCreator\bin\Debug\netcoreapp3.1\P02GenericArrayCreator.pdb
+C:\Users\skgos\source\repos\Box\P02GenericArrayCreator\obj\Debug\netcoreapp3.1\P02GenericArrayCreator.csproj.AssemblyReference.cache
+C:\Users\skgos\source\repos\Box\P02GenericArrayCreator\obj\Debug\netcoreapp3.1\P02GenericArrayCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skgos\source\repos\Box\P02GenericArrayCreator\obj\Debug\netcoreapp3.1\P02GenericArrayCreator.AssemblyInfoInputs.cache
+C:\Users\skgos\source\repos\Box\P02GenericArrayCreator\obj\Debug\netcoreapp3.1\P02GenericArrayCreator.AssemblyInfo.cs
+C:\Users\skgos\source\repos\Box\P02GenericArrayCreator\obj\Debug\netcoreapp3.1\P02GenericArrayCreator.csproj.CoreCompileInputs.cache
+C:\Users\skgos\source\repos\Box\P02GenericArrayCreator\obj\Debug\netcoreapp3.1\P02GenericArrayCreator.dll
+C:\Users\skgos\source\repos\Box\P02GenericArrayCreator\obj\Debug\netcoreapp3.1\P02GenericArrayCreator.pdb
+C:\Users\skgos\source\repos\Box\P02GenericArrayCreator\obj\Debug\netcoreapp3.1\P02GenericArrayCreator.genruntimeconfig.cache

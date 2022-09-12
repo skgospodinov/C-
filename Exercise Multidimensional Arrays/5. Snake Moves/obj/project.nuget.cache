@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ULpn6jq9hzZ98MN1J2ES5HAB38J7fTBM0JNoHkjVqMjsw9ae5wDUE1ziBTlq0GbUnhyBaqfH+7FoAq/va8jFAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\Exercise Multidimensional Arrays\\5. Snake Moves\\5. Snake Moves.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

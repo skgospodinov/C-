@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Udugm6RM2m8GpRFh2TuRo470SiaicXatbSBLKoTETUviHEbGfYpmOipRekTQ05hWcRm5s1ErHcljy2TJm4/m4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\Stacks and Queues-Exercise\\9. Simple Text Editor\\9. Simple Text Editor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

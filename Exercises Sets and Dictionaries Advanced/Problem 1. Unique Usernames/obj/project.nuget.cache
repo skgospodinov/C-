@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i0Keo7Ah0QMAM2SeQbPWjeLbrmphlr8Y/saTJeGfSyP3wx9AYsw68jNF9pjo0sEhKqdJTRO46qIyqDJNf8I8nw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\Exercises Sets and Dictionaries Advanced\\Problem 1. Unique Usernames\\Problem 1. Unique Usernames.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\skgos\source\repos\FunctionalPrograming\8. List of Predicates\bin\Debug\netcoreapp3.1\8. Custom Comparator.exe
+C:\Users\skgos\source\repos\FunctionalPrograming\8. List of Predicates\bin\Debug\netcoreapp3.1\8. Custom Comparator.deps.json
+C:\Users\skgos\source\repos\FunctionalPrograming\8. List of Predicates\bin\Debug\netcoreapp3.1\8. Custom Comparator.runtimeconfig.json
+C:\Users\skgos\source\repos\FunctionalPrograming\8. List of Predicates\bin\Debug\netcoreapp3.1\8. Custom Comparator.runtimeconfig.dev.json
+C:\Users\skgos\source\repos\FunctionalPrograming\8. List of Predicates\bin\Debug\netcoreapp3.1\8. Custom Comparator.dll
+C:\Users\skgos\source\repos\FunctionalPrograming\8. List of Predicates\bin\Debug\netcoreapp3.1\8. Custom Comparator.pdb
+C:\Users\skgos\source\repos\FunctionalPrograming\8. List of Predicates\obj\Debug\netcoreapp3.1\8. Custom Comparator.csproj.AssemblyReference.cache
+C:\Users\skgos\source\repos\FunctionalPrograming\8. List of Predicates\obj\Debug\netcoreapp3.1\8. Custom Comparator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skgos\source\repos\FunctionalPrograming\8. List of Predicates\obj\Debug\netcoreapp3.1\8. Custom Comparator.AssemblyInfoInputs.cache
+C:\Users\skgos\source\repos\FunctionalPrograming\8. List of Predicates\obj\Debug\netcoreapp3.1\8. Custom Comparator.AssemblyInfo.cs
+C:\Users\skgos\source\repos\FunctionalPrograming\8. List of Predicates\obj\Debug\netcoreapp3.1\8. Custom Comparator.csproj.CoreCompileInputs.cache
+C:\Users\skgos\source\repos\FunctionalPrograming\8. List of Predicates\obj\Debug\netcoreapp3.1\8. Custom Comparator.dll
+C:\Users\skgos\source\repos\FunctionalPrograming\8. List of Predicates\obj\Debug\netcoreapp3.1\8. Custom Comparator.pdb
+C:\Users\skgos\source\repos\FunctionalPrograming\8. List of Predicates\obj\Debug\netcoreapp3.1\8. Custom Comparator.genruntimeconfig.cache

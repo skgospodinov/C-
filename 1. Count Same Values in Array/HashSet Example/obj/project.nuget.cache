@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lKINhOf0beQLEF7x5xmO0EMWN31XyZKmEzeBnO2HoXil2SLYMtdOgrrQYcJfhb77uwt+7yMdtHNWnfoV5vISVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\1. Count Same Values in Array\\HashSet Example\\5. Cities by Continent and Country.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

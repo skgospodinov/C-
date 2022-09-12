@@ -1,0 +1,14 @@
+C:\Users\skgos\source\repos\1. Count Same Values in Array\6. Record Unique Names\bin\Debug\netcoreapp3.1\6. Record Unique Names.exe
+C:\Users\skgos\source\repos\1. Count Same Values in Array\6. Record Unique Names\bin\Debug\netcoreapp3.1\6. Record Unique Names.deps.json
+C:\Users\skgos\source\repos\1. Count Same Values in Array\6. Record Unique Names\bin\Debug\netcoreapp3.1\6. Record Unique Names.runtimeconfig.json
+C:\Users\skgos\source\repos\1. Count Same Values in Array\6. Record Unique Names\bin\Debug\netcoreapp3.1\6. Record Unique Names.runtimeconfig.dev.json
+C:\Users\skgos\source\repos\1. Count Same Values in Array\6. Record Unique Names\bin\Debug\netcoreapp3.1\6. Record Unique Names.dll
+C:\Users\skgos\source\repos\1. Count Same Values in Array\6. Record Unique Names\bin\Debug\netcoreapp3.1\6. Record Unique Names.pdb
+C:\Users\skgos\source\repos\1. Count Same Values in Array\6. Record Unique Names\obj\Debug\netcoreapp3.1\6. Record Unique Names.csproj.AssemblyReference.cache
+C:\Users\skgos\source\repos\1. Count Same Values in Array\6. Record Unique Names\obj\Debug\netcoreapp3.1\6. Record Unique Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skgos\source\repos\1. Count Same Values in Array\6. Record Unique Names\obj\Debug\netcoreapp3.1\6. Record Unique Names.AssemblyInfoInputs.cache
+C:\Users\skgos\source\repos\1. Count Same Values in Array\6. Record Unique Names\obj\Debug\netcoreapp3.1\6. Record Unique Names.AssemblyInfo.cs
+C:\Users\skgos\source\repos\1. Count Same Values in Array\6. Record Unique Names\obj\Debug\netcoreapp3.1\6. Record Unique Names.csproj.CoreCompileInputs.cache
+C:\Users\skgos\source\repos\1. Count Same Values in Array\6. Record Unique Names\obj\Debug\netcoreapp3.1\6. Record Unique Names.dll
+C:\Users\skgos\source\repos\1. Count Same Values in Array\6. Record Unique Names\obj\Debug\netcoreapp3.1\6. Record Unique Names.pdb
+C:\Users\skgos\source\repos\1. Count Same Values in Array\6. Record Unique Names\obj\Debug\netcoreapp3.1\6. Record Unique Names.genruntimeconfig.cache

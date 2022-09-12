@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YjFHE+12n1yLCtq7MLFRY90yGDOf/08aP/i5MQyK2QztXlCUO0bLo9fToKL26rzy8dZ3DPL3df45hWtXaWRp+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\1. Count Same Values in Array\\2. Average Student Grades\\2. Average Student Grades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

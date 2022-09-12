@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dxE5kGzPBQN/nanRBw1zh6ky4bsJH5ytclDIJ389vjFari64iL7uLOSoMfNCuYWyLUTx7PQfg1xS5A2gZzx6Wg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\FunctionalPrograming\\1. Sort Even Numbers\\1. Sort Even Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

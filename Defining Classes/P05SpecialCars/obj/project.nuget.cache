@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b8xwUfevUoApsZrMg/tfCTaT0BxWwE4fu7auOPpa4jHsfiQZ9pFP7olib39EnP/d1W1oo8mLNs8G1sV8n05q9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\Defining Classes\\P05SpecialCars\\P05SpecialCars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

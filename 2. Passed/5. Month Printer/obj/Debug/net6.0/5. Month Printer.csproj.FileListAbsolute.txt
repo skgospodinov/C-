@@ -1,0 +1,15 @@
+C:\Users\skgos\source\repos\2. Passed\5. Month Printer\bin\Debug\net6.0\5. Month Printer.exe
+C:\Users\skgos\source\repos\2. Passed\5. Month Printer\bin\Debug\net6.0\5. Month Printer.deps.json
+C:\Users\skgos\source\repos\2. Passed\5. Month Printer\bin\Debug\net6.0\5. Month Printer.runtimeconfig.json
+C:\Users\skgos\source\repos\2. Passed\5. Month Printer\bin\Debug\net6.0\5. Month Printer.dll
+C:\Users\skgos\source\repos\2. Passed\5. Month Printer\bin\Debug\net6.0\5. Month Printer.pdb
+C:\Users\skgos\source\repos\2. Passed\5. Month Printer\obj\Debug\net6.0\5. Month Printer.csproj.AssemblyReference.cache
+C:\Users\skgos\source\repos\2. Passed\5. Month Printer\obj\Debug\net6.0\5. Month Printer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skgos\source\repos\2. Passed\5. Month Printer\obj\Debug\net6.0\5. Month Printer.AssemblyInfoInputs.cache
+C:\Users\skgos\source\repos\2. Passed\5. Month Printer\obj\Debug\net6.0\5. Month Printer.AssemblyInfo.cs
+C:\Users\skgos\source\repos\2. Passed\5. Month Printer\obj\Debug\net6.0\5. Month Printer.csproj.CoreCompileInputs.cache
+C:\Users\skgos\source\repos\2. Passed\5. Month Printer\obj\Debug\net6.0\5. Month Printer.dll
+C:\Users\skgos\source\repos\2. Passed\5. Month Printer\obj\Debug\net6.0\refint\5. Month Printer.dll
+C:\Users\skgos\source\repos\2. Passed\5. Month Printer\obj\Debug\net6.0\5. Month Printer.pdb
+C:\Users\skgos\source\repos\2. Passed\5. Month Printer\obj\Debug\net6.0\5. Month Printer.genruntimeconfig.cache
+C:\Users\skgos\source\repos\2. Passed\5. Month Printer\obj\Debug\net6.0\ref\5. Month Printer.dll

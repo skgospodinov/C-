@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dn7ZVfcGRgH3+Zyg64rSXvxUPXzTAsrwaBoVHD3xi2nB9pu7c87ITD7vo800W6wywsNFde0rVMxDW/0GxQrTeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\FunctionalPrograming\\3. Custom Min Function\\3. Custom Min Function.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

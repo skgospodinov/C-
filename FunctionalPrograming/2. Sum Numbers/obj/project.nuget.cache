@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LZmWSDvg2V4gZdzF+GG5Yrs2NqWVWgu4jLFN/8UdWU6uV6K+zxocGWjC6lsjsnJMvMBHqi6Qzyn3BxxLiG9ZSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\FunctionalPrograming\\2. Sum Numbers\\2. Sum Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

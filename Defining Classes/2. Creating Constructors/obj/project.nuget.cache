@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ywxLueGuF1lY0zg3PlEXiL2r28XiOiivQ1N7hgxuCT+w6SgnK7sLbR8nxfSO3cdlHthGKxNqT8BgvJJNPq0Htw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\Defining Classes\\2. Creating Constructors\\2. Creating Constructors.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

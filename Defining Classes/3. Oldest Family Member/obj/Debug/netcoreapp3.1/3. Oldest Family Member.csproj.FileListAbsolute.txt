@@ -1,0 +1,14 @@
+C:\Users\skgos\source\repos\Defining Classes\3. Oldest Family Member\obj\Debug\netcoreapp3.1\3. Oldest Family Member.csproj.AssemblyReference.cache
+C:\Users\skgos\source\repos\Defining Classes\3. Oldest Family Member\obj\Debug\netcoreapp3.1\3. Oldest Family Member.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skgos\source\repos\Defining Classes\3. Oldest Family Member\obj\Debug\netcoreapp3.1\3. Oldest Family Member.AssemblyInfoInputs.cache
+C:\Users\skgos\source\repos\Defining Classes\3. Oldest Family Member\obj\Debug\netcoreapp3.1\3. Oldest Family Member.AssemblyInfo.cs
+C:\Users\skgos\source\repos\Defining Classes\3. Oldest Family Member\obj\Debug\netcoreapp3.1\3. Oldest Family Member.csproj.CoreCompileInputs.cache
+C:\Users\skgos\source\repos\Defining Classes\3. Oldest Family Member\bin\Debug\netcoreapp3.1\3. Oldest Family Member.exe
+C:\Users\skgos\source\repos\Defining Classes\3. Oldest Family Member\bin\Debug\netcoreapp3.1\3. Oldest Family Member.deps.json
+C:\Users\skgos\source\repos\Defining Classes\3. Oldest Family Member\bin\Debug\netcoreapp3.1\3. Oldest Family Member.runtimeconfig.json
+C:\Users\skgos\source\repos\Defining Classes\3. Oldest Family Member\bin\Debug\netcoreapp3.1\3. Oldest Family Member.runtimeconfig.dev.json
+C:\Users\skgos\source\repos\Defining Classes\3. Oldest Family Member\bin\Debug\netcoreapp3.1\3. Oldest Family Member.dll
+C:\Users\skgos\source\repos\Defining Classes\3. Oldest Family Member\bin\Debug\netcoreapp3.1\3. Oldest Family Member.pdb
+C:\Users\skgos\source\repos\Defining Classes\3. Oldest Family Member\obj\Debug\netcoreapp3.1\3. Oldest Family Member.dll
+C:\Users\skgos\source\repos\Defining Classes\3. Oldest Family Member\obj\Debug\netcoreapp3.1\3. Oldest Family Member.pdb
+C:\Users\skgos\source\repos\Defining Classes\3. Oldest Family Member\obj\Debug\netcoreapp3.1\3. Oldest Family Member.genruntimeconfig.cache

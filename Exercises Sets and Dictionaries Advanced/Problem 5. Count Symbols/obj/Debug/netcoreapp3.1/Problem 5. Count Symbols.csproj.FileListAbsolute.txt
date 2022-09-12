@@ -1,0 +1,14 @@
+C:\Users\skgos\source\repos\Exercises Sets and Dictionaries Advanced\Problem 5. Count Symbols\bin\Debug\netcoreapp3.1\Problem 5. Count Symbols.exe
+C:\Users\skgos\source\repos\Exercises Sets and Dictionaries Advanced\Problem 5. Count Symbols\bin\Debug\netcoreapp3.1\Problem 5. Count Symbols.deps.json
+C:\Users\skgos\source\repos\Exercises Sets and Dictionaries Advanced\Problem 5. Count Symbols\bin\Debug\netcoreapp3.1\Problem 5. Count Symbols.runtimeconfig.json
+C:\Users\skgos\source\repos\Exercises Sets and Dictionaries Advanced\Problem 5. Count Symbols\bin\Debug\netcoreapp3.1\Problem 5. Count Symbols.runtimeconfig.dev.json
+C:\Users\skgos\source\repos\Exercises Sets and Dictionaries Advanced\Problem 5. Count Symbols\bin\Debug\netcoreapp3.1\Problem 5. Count Symbols.dll
+C:\Users\skgos\source\repos\Exercises Sets and Dictionaries Advanced\Problem 5. Count Symbols\bin\Debug\netcoreapp3.1\Problem 5. Count Symbols.pdb
+C:\Users\skgos\source\repos\Exercises Sets and Dictionaries Advanced\Problem 5. Count Symbols\obj\Debug\netcoreapp3.1\Problem 5. Count Symbols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skgos\source\repos\Exercises Sets and Dictionaries Advanced\Problem 5. Count Symbols\obj\Debug\netcoreapp3.1\Problem 5. Count Symbols.AssemblyInfoInputs.cache
+C:\Users\skgos\source\repos\Exercises Sets and Dictionaries Advanced\Problem 5. Count Symbols\obj\Debug\netcoreapp3.1\Problem 5. Count Symbols.AssemblyInfo.cs
+C:\Users\skgos\source\repos\Exercises Sets and Dictionaries Advanced\Problem 5. Count Symbols\obj\Debug\netcoreapp3.1\Problem 5. Count Symbols.csproj.CoreCompileInputs.cache
+C:\Users\skgos\source\repos\Exercises Sets and Dictionaries Advanced\Problem 5. Count Symbols\obj\Debug\netcoreapp3.1\Problem 5. Count Symbols.dll
+C:\Users\skgos\source\repos\Exercises Sets and Dictionaries Advanced\Problem 5. Count Symbols\obj\Debug\netcoreapp3.1\Problem 5. Count Symbols.pdb
+C:\Users\skgos\source\repos\Exercises Sets and Dictionaries Advanced\Problem 5. Count Symbols\obj\Debug\netcoreapp3.1\Problem 5. Count Symbols.genruntimeconfig.cache
+C:\Users\skgos\source\repos\Exercises Sets and Dictionaries Advanced\Problem 5. Count Symbols\obj\Debug\netcoreapp3.1\Problem 5. Count Symbols.csproj.AssemblyReference.cache

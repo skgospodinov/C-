@@ -1,0 +1,14 @@
+C:\Users\skgos\source\repos\Defining Classes\P5SoftUniParking\bin\Debug\netcoreapp3.1\P5SoftUniParking.exe
+C:\Users\skgos\source\repos\Defining Classes\P5SoftUniParking\bin\Debug\netcoreapp3.1\P5SoftUniParking.deps.json
+C:\Users\skgos\source\repos\Defining Classes\P5SoftUniParking\bin\Debug\netcoreapp3.1\P5SoftUniParking.runtimeconfig.json
+C:\Users\skgos\source\repos\Defining Classes\P5SoftUniParking\bin\Debug\netcoreapp3.1\P5SoftUniParking.runtimeconfig.dev.json
+C:\Users\skgos\source\repos\Defining Classes\P5SoftUniParking\bin\Debug\netcoreapp3.1\P5SoftUniParking.dll
+C:\Users\skgos\source\repos\Defining Classes\P5SoftUniParking\bin\Debug\netcoreapp3.1\P5SoftUniParking.pdb
+C:\Users\skgos\source\repos\Defining Classes\P5SoftUniParking\obj\Debug\netcoreapp3.1\P5SoftUniParking.csproj.AssemblyReference.cache
+C:\Users\skgos\source\repos\Defining Classes\P5SoftUniParking\obj\Debug\netcoreapp3.1\P5SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skgos\source\repos\Defining Classes\P5SoftUniParking\obj\Debug\netcoreapp3.1\P5SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\skgos\source\repos\Defining Classes\P5SoftUniParking\obj\Debug\netcoreapp3.1\P5SoftUniParking.AssemblyInfo.cs
+C:\Users\skgos\source\repos\Defining Classes\P5SoftUniParking\obj\Debug\netcoreapp3.1\P5SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\skgos\source\repos\Defining Classes\P5SoftUniParking\obj\Debug\netcoreapp3.1\P5SoftUniParking.dll
+C:\Users\skgos\source\repos\Defining Classes\P5SoftUniParking\obj\Debug\netcoreapp3.1\P5SoftUniParking.pdb
+C:\Users\skgos\source\repos\Defining Classes\P5SoftUniParking\obj\Debug\netcoreapp3.1\P5SoftUniParking.genruntimeconfig.cache

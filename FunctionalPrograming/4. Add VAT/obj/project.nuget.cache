@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fWAwSWyIJ60k3i0RYOo/3ltq8j4NthKCPsfZo6jJQB6tmMqYXSxZ52ShtKf0WzRnMrdh2GOLNIy4I12Z28kuRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\FunctionalPrograming\\4. Add VAT\\4. Add VAT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

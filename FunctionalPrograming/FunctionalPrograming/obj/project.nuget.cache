@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2XfCGG3jBODOAjaa15CKDzHBI6CDWHQBQxfyV86AfMN4aIBsMx63G/P9utrgfPZ0erd5Nqnt3JBE+CWV8sc+/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\FunctionalPrograming\\FunctionalPrograming\\FunctionalPrograming.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

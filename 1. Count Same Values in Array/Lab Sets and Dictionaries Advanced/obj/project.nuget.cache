@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SA/UjT3+nKM3JHdA/6nlnTyVuYo32AvZjv1iQPsnUG3UoOIlcm+j8x3sdS9sENzJBzYb7hXVNFZ91MME+ya9rw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\1. Count Same Values in Array\\Lab Sets and Dictionaries Advanced\\1. Count Same Values in Array.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MS4r3YoGtlaO+1b2o4i8pD79VygHVNrWoyZuWH2nA227KeEA6Qy9lyAHZ0ktZFZS2UduvsPIsraFr7F1rJcAEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\Lab Multidimensional Arrays\\6. Jagged-Array Modification\\6. JaggedArray Modification.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J+UqFfcKP0MDWpwuIHcaSrDMcbn9XrofoZRWyC7lSOOF6jAAyW7it6rNsPtWMwMoDFjHAgtaLj5FQXy3qYRpyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\Stacks and Queues-Exercise\\2. Basic Queue Operations\\2. Basic Queue Operations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

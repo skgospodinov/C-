@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O3a6pWQbnoLuZrE2jXhdCG1mLwvHYpi/09rDbwwJhJFXfBAgOluAt3wEMINK5tlkIQd/IeIYPS3hpmVzDUpHmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\FunctionalPrograming\\2. Knights of Honor\\2. Knights of Honor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

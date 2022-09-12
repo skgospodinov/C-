@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EXXhhsXinyVEkNtsjruIZbFfbVOudXdW5odSYlEh6JxUj9aA8NYlDVRHu+bb+H8e05Az5YtW2ypIhjnMrEfTiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\Exercises Sets and Dictionaries Advanced\\Problem 6. Wardrobe\\Problem 6. Wardrobe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

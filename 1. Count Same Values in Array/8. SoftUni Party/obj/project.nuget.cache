@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nEMAmAdKdwK9bIU/BCRB/LcmPfmzGnrjJvgTD24q8/53bIXZcFp9HSFYS5Z2kln5GfSq2Rg2HqUc8B7WzUUwfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\1. Count Same Values in Array\\8. SoftUni Party\\8. SoftUni Party.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

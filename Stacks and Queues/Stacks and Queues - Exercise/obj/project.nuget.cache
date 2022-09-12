@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/vN756fXlUQ5gD3Hxmrmrr3oH+Fx2WMrwtDE8JRjn0SG6L2LmiuWD3F3cI8mh5QHVVmjP1XOp6Vf+O1wojv7XQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\Stacks and Queues\\Stacks and Queues - Exercise\\Stacks and Queues - Exercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\skgos\source\repos\Defining Classes\P6SpeedRacing\bin\Debug\netcoreapp3.1\P6SpeedRacing.exe
+C:\Users\skgos\source\repos\Defining Classes\P6SpeedRacing\bin\Debug\netcoreapp3.1\P6SpeedRacing.deps.json
+C:\Users\skgos\source\repos\Defining Classes\P6SpeedRacing\bin\Debug\netcoreapp3.1\P6SpeedRacing.runtimeconfig.json
+C:\Users\skgos\source\repos\Defining Classes\P6SpeedRacing\bin\Debug\netcoreapp3.1\P6SpeedRacing.runtimeconfig.dev.json
+C:\Users\skgos\source\repos\Defining Classes\P6SpeedRacing\bin\Debug\netcoreapp3.1\P6SpeedRacing.dll
+C:\Users\skgos\source\repos\Defining Classes\P6SpeedRacing\bin\Debug\netcoreapp3.1\P6SpeedRacing.pdb
+C:\Users\skgos\source\repos\Defining Classes\P6SpeedRacing\obj\Debug\netcoreapp3.1\P6SpeedRacing.csproj.AssemblyReference.cache
+C:\Users\skgos\source\repos\Defining Classes\P6SpeedRacing\obj\Debug\netcoreapp3.1\P6SpeedRacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skgos\source\repos\Defining Classes\P6SpeedRacing\obj\Debug\netcoreapp3.1\P6SpeedRacing.AssemblyInfoInputs.cache
+C:\Users\skgos\source\repos\Defining Classes\P6SpeedRacing\obj\Debug\netcoreapp3.1\P6SpeedRacing.AssemblyInfo.cs
+C:\Users\skgos\source\repos\Defining Classes\P6SpeedRacing\obj\Debug\netcoreapp3.1\P6SpeedRacing.csproj.CoreCompileInputs.cache
+C:\Users\skgos\source\repos\Defining Classes\P6SpeedRacing\obj\Debug\netcoreapp3.1\P6SpeedRacing.dll
+C:\Users\skgos\source\repos\Defining Classes\P6SpeedRacing\obj\Debug\netcoreapp3.1\P6SpeedRacing.pdb
+C:\Users\skgos\source\repos\Defining Classes\P6SpeedRacing\obj\Debug\netcoreapp3.1\P6SpeedRacing.genruntimeconfig.cache

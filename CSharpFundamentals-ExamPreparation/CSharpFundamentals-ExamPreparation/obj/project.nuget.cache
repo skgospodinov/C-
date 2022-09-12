@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BsORshXsGKU5CcmQ556LMhrEYjdhoNNK1SCvSqqt4MtNh+GBEsXm6H9UW+o4AFEtUcmb+uiTwWxHiXf1e+z/ow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\CSharpFundamentals-ExamPreparation\\CSharpFundamentals-ExamPreparation\\CounterStrike.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

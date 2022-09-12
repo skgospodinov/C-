@@ -1,0 +1,14 @@
+C:\Users\skgos\source\repos\Exercises Sets and Dictionaries Advanced\Problem 2. Sets of Elements\bin\Debug\netcoreapp3.1\Problem 2. Sets of Elements.exe
+C:\Users\skgos\source\repos\Exercises Sets and Dictionaries Advanced\Problem 2. Sets of Elements\bin\Debug\netcoreapp3.1\Problem 2. Sets of Elements.deps.json
+C:\Users\skgos\source\repos\Exercises Sets and Dictionaries Advanced\Problem 2. Sets of Elements\bin\Debug\netcoreapp3.1\Problem 2. Sets of Elements.runtimeconfig.json
+C:\Users\skgos\source\repos\Exercises Sets and Dictionaries Advanced\Problem 2. Sets of Elements\bin\Debug\netcoreapp3.1\Problem 2. Sets of Elements.runtimeconfig.dev.json
+C:\Users\skgos\source\repos\Exercises Sets and Dictionaries Advanced\Problem 2. Sets of Elements\bin\Debug\netcoreapp3.1\Problem 2. Sets of Elements.dll
+C:\Users\skgos\source\repos\Exercises Sets and Dictionaries Advanced\Problem 2. Sets of Elements\bin\Debug\netcoreapp3.1\Problem 2. Sets of Elements.pdb
+C:\Users\skgos\source\repos\Exercises Sets and Dictionaries Advanced\Problem 2. Sets of Elements\obj\Debug\netcoreapp3.1\Problem 2. Sets of Elements.csproj.AssemblyReference.cache
+C:\Users\skgos\source\repos\Exercises Sets and Dictionaries Advanced\Problem 2. Sets of Elements\obj\Debug\netcoreapp3.1\Problem 2. Sets of Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skgos\source\repos\Exercises Sets and Dictionaries Advanced\Problem 2. Sets of Elements\obj\Debug\netcoreapp3.1\Problem 2. Sets of Elements.AssemblyInfoInputs.cache
+C:\Users\skgos\source\repos\Exercises Sets and Dictionaries Advanced\Problem 2. Sets of Elements\obj\Debug\netcoreapp3.1\Problem 2. Sets of Elements.AssemblyInfo.cs
+C:\Users\skgos\source\repos\Exercises Sets and Dictionaries Advanced\Problem 2. Sets of Elements\obj\Debug\netcoreapp3.1\Problem 2. Sets of Elements.csproj.CoreCompileInputs.cache
+C:\Users\skgos\source\repos\Exercises Sets and Dictionaries Advanced\Problem 2. Sets of Elements\obj\Debug\netcoreapp3.1\Problem 2. Sets of Elements.dll
+C:\Users\skgos\source\repos\Exercises Sets and Dictionaries Advanced\Problem 2. Sets of Elements\obj\Debug\netcoreapp3.1\Problem 2. Sets of Elements.pdb
+C:\Users\skgos\source\repos\Exercises Sets and Dictionaries Advanced\Problem 2. Sets of Elements\obj\Debug\netcoreapp3.1\Problem 2. Sets of Elements.genruntimeconfig.cache

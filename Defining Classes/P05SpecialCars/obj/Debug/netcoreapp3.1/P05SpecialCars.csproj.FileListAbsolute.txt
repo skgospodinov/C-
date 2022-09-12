@@ -1,0 +1,14 @@
+C:\Users\skgos\source\repos\Defining Classes\P05SpecialCars\bin\Debug\netcoreapp3.1\P05SpecialCars.exe
+C:\Users\skgos\source\repos\Defining Classes\P05SpecialCars\bin\Debug\netcoreapp3.1\P05SpecialCars.deps.json
+C:\Users\skgos\source\repos\Defining Classes\P05SpecialCars\bin\Debug\netcoreapp3.1\P05SpecialCars.runtimeconfig.json
+C:\Users\skgos\source\repos\Defining Classes\P05SpecialCars\bin\Debug\netcoreapp3.1\P05SpecialCars.runtimeconfig.dev.json
+C:\Users\skgos\source\repos\Defining Classes\P05SpecialCars\bin\Debug\netcoreapp3.1\P05SpecialCars.dll
+C:\Users\skgos\source\repos\Defining Classes\P05SpecialCars\bin\Debug\netcoreapp3.1\P05SpecialCars.pdb
+C:\Users\skgos\source\repos\Defining Classes\P05SpecialCars\obj\Debug\netcoreapp3.1\P05SpecialCars.csproj.AssemblyReference.cache
+C:\Users\skgos\source\repos\Defining Classes\P05SpecialCars\obj\Debug\netcoreapp3.1\P05SpecialCars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skgos\source\repos\Defining Classes\P05SpecialCars\obj\Debug\netcoreapp3.1\P05SpecialCars.AssemblyInfoInputs.cache
+C:\Users\skgos\source\repos\Defining Classes\P05SpecialCars\obj\Debug\netcoreapp3.1\P05SpecialCars.AssemblyInfo.cs
+C:\Users\skgos\source\repos\Defining Classes\P05SpecialCars\obj\Debug\netcoreapp3.1\P05SpecialCars.csproj.CoreCompileInputs.cache
+C:\Users\skgos\source\repos\Defining Classes\P05SpecialCars\obj\Debug\netcoreapp3.1\P05SpecialCars.dll
+C:\Users\skgos\source\repos\Defining Classes\P05SpecialCars\obj\Debug\netcoreapp3.1\P05SpecialCars.pdb
+C:\Users\skgos\source\repos\Defining Classes\P05SpecialCars\obj\Debug\netcoreapp3.1\P05SpecialCars.genruntimeconfig.cache

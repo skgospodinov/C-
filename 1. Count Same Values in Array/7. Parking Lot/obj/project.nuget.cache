@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U6SghO6JeSW26wIKqj94K4+QKyaLMTuEl9fy0GcJ2dKC7Ag1MWqL6Is/RrlqS+mpNIKyYBASb6aF0hhdgf5/QA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\1. Count Same Values in Array\\7. Parking Lot\\7. Parking Lot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
