@@ -1,0 +1,14 @@
+C:\Users\skgos\source\repos\Algorithms Introduction\P03SumofCoins\bin\Debug\netcoreapp3.1\P03SumofCoins.exe
+C:\Users\skgos\source\repos\Algorithms Introduction\P03SumofCoins\bin\Debug\netcoreapp3.1\P03SumofCoins.deps.json
+C:\Users\skgos\source\repos\Algorithms Introduction\P03SumofCoins\bin\Debug\netcoreapp3.1\P03SumofCoins.runtimeconfig.json
+C:\Users\skgos\source\repos\Algorithms Introduction\P03SumofCoins\bin\Debug\netcoreapp3.1\P03SumofCoins.runtimeconfig.dev.json
+C:\Users\skgos\source\repos\Algorithms Introduction\P03SumofCoins\bin\Debug\netcoreapp3.1\P03SumofCoins.dll
+C:\Users\skgos\source\repos\Algorithms Introduction\P03SumofCoins\bin\Debug\netcoreapp3.1\P03SumofCoins.pdb
+C:\Users\skgos\source\repos\Algorithms Introduction\P03SumofCoins\obj\Debug\netcoreapp3.1\P03SumofCoins.csproj.AssemblyReference.cache
+C:\Users\skgos\source\repos\Algorithms Introduction\P03SumofCoins\obj\Debug\netcoreapp3.1\P03SumofCoins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skgos\source\repos\Algorithms Introduction\P03SumofCoins\obj\Debug\netcoreapp3.1\P03SumofCoins.AssemblyInfoInputs.cache
+C:\Users\skgos\source\repos\Algorithms Introduction\P03SumofCoins\obj\Debug\netcoreapp3.1\P03SumofCoins.AssemblyInfo.cs
+C:\Users\skgos\source\repos\Algorithms Introduction\P03SumofCoins\obj\Debug\netcoreapp3.1\P03SumofCoins.csproj.CoreCompileInputs.cache
+C:\Users\skgos\source\repos\Algorithms Introduction\P03SumofCoins\obj\Debug\netcoreapp3.1\P03SumofCoins.dll
+C:\Users\skgos\source\repos\Algorithms Introduction\P03SumofCoins\obj\Debug\netcoreapp3.1\P03SumofCoins.pdb
+C:\Users\skgos\source\repos\Algorithms Introduction\P03SumofCoins\obj\Debug\netcoreapp3.1\P03SumofCoins.genruntimeconfig.cache

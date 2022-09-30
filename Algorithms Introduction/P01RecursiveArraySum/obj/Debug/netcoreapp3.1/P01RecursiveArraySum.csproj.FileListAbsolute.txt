@@ -1,0 +1,14 @@
+C:\Users\skgos\source\repos\Algorithms Introduction\P01RecursiveArraySum\bin\Debug\netcoreapp3.1\P01RecursiveArraySum.exe
+C:\Users\skgos\source\repos\Algorithms Introduction\P01RecursiveArraySum\bin\Debug\netcoreapp3.1\P01RecursiveArraySum.deps.json
+C:\Users\skgos\source\repos\Algorithms Introduction\P01RecursiveArraySum\bin\Debug\netcoreapp3.1\P01RecursiveArraySum.runtimeconfig.json
+C:\Users\skgos\source\repos\Algorithms Introduction\P01RecursiveArraySum\bin\Debug\netcoreapp3.1\P01RecursiveArraySum.runtimeconfig.dev.json
+C:\Users\skgos\source\repos\Algorithms Introduction\P01RecursiveArraySum\bin\Debug\netcoreapp3.1\P01RecursiveArraySum.dll
+C:\Users\skgos\source\repos\Algorithms Introduction\P01RecursiveArraySum\bin\Debug\netcoreapp3.1\P01RecursiveArraySum.pdb
+C:\Users\skgos\source\repos\Algorithms Introduction\P01RecursiveArraySum\obj\Debug\netcoreapp3.1\P01RecursiveArraySum.csproj.AssemblyReference.cache
+C:\Users\skgos\source\repos\Algorithms Introduction\P01RecursiveArraySum\obj\Debug\netcoreapp3.1\P01RecursiveArraySum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skgos\source\repos\Algorithms Introduction\P01RecursiveArraySum\obj\Debug\netcoreapp3.1\P01RecursiveArraySum.AssemblyInfoInputs.cache
+C:\Users\skgos\source\repos\Algorithms Introduction\P01RecursiveArraySum\obj\Debug\netcoreapp3.1\P01RecursiveArraySum.AssemblyInfo.cs
+C:\Users\skgos\source\repos\Algorithms Introduction\P01RecursiveArraySum\obj\Debug\netcoreapp3.1\P01RecursiveArraySum.csproj.CoreCompileInputs.cache
+C:\Users\skgos\source\repos\Algorithms Introduction\P01RecursiveArraySum\obj\Debug\netcoreapp3.1\P01RecursiveArraySum.dll
+C:\Users\skgos\source\repos\Algorithms Introduction\P01RecursiveArraySum\obj\Debug\netcoreapp3.1\P01RecursiveArraySum.pdb
+C:\Users\skgos\source\repos\Algorithms Introduction\P01RecursiveArraySum\obj\Debug\netcoreapp3.1\P01RecursiveArraySum.genruntimeconfig.cache

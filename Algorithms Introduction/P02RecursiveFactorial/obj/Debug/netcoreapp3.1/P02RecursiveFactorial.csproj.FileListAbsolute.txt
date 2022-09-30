@@ -1,0 +1,14 @@
+C:\Users\skgos\source\repos\Algorithms Introduction\P02RecursiveFactorial\bin\Debug\netcoreapp3.1\P02RecursiveFactorial.exe
+C:\Users\skgos\source\repos\Algorithms Introduction\P02RecursiveFactorial\bin\Debug\netcoreapp3.1\P02RecursiveFactorial.deps.json
+C:\Users\skgos\source\repos\Algorithms Introduction\P02RecursiveFactorial\bin\Debug\netcoreapp3.1\P02RecursiveFactorial.runtimeconfig.json
+C:\Users\skgos\source\repos\Algorithms Introduction\P02RecursiveFactorial\bin\Debug\netcoreapp3.1\P02RecursiveFactorial.runtimeconfig.dev.json
+C:\Users\skgos\source\repos\Algorithms Introduction\P02RecursiveFactorial\bin\Debug\netcoreapp3.1\P02RecursiveFactorial.dll
+C:\Users\skgos\source\repos\Algorithms Introduction\P02RecursiveFactorial\bin\Debug\netcoreapp3.1\P02RecursiveFactorial.pdb
+C:\Users\skgos\source\repos\Algorithms Introduction\P02RecursiveFactorial\obj\Debug\netcoreapp3.1\P02RecursiveFactorial.csproj.AssemblyReference.cache
+C:\Users\skgos\source\repos\Algorithms Introduction\P02RecursiveFactorial\obj\Debug\netcoreapp3.1\P02RecursiveFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skgos\source\repos\Algorithms Introduction\P02RecursiveFactorial\obj\Debug\netcoreapp3.1\P02RecursiveFactorial.AssemblyInfoInputs.cache
+C:\Users\skgos\source\repos\Algorithms Introduction\P02RecursiveFactorial\obj\Debug\netcoreapp3.1\P02RecursiveFactorial.AssemblyInfo.cs
+C:\Users\skgos\source\repos\Algorithms Introduction\P02RecursiveFactorial\obj\Debug\netcoreapp3.1\P02RecursiveFactorial.csproj.CoreCompileInputs.cache
+C:\Users\skgos\source\repos\Algorithms Introduction\P02RecursiveFactorial\obj\Debug\netcoreapp3.1\P02RecursiveFactorial.dll
+C:\Users\skgos\source\repos\Algorithms Introduction\P02RecursiveFactorial\obj\Debug\netcoreapp3.1\P02RecursiveFactorial.pdb
+C:\Users\skgos\source\repos\Algorithms Introduction\P02RecursiveFactorial\obj\Debug\netcoreapp3.1\P02RecursiveFactorial.genruntimeconfig.cache
