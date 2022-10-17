@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ETv/KD/Ly9Q7lGYDt8x1XvZrWJllDpQhXGRkxSddUad3iEHnM/zDxATLY6PU33Qvx0IgxHi7X5zOLXfFd/zgTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\LabEncapsulation\\PizzaCalories\\PizzaCalories.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

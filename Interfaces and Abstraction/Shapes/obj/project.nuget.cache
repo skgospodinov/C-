@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TVPzBDhgh5HfJJMYy5UvwG5SnlqT1dKT71/IwUILt4W23pLsMwoKmxiM35kYODtaVQgwheRaE6Q02a0brxwu/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\Interfaces and Abstraction\\Shapes\\Shapes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9URayNd9C4xPkONLB5nZVvspkLTuoq0EculuykH5sb/HcbshIX9LBnq7SwkTCEUydKel9xHnJJY/1aIwaY2Qdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\LabEncapsulation\\P01SortPersonsByNameAndAge\\P01SortPersonsByNameAndAge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nRzzpg3TYqcYg+fmYiqD0DmFjzfQLyd5ZxVdXbe+axzW/DJH2rri/fW3WyZkiNAkVyzHemmiR2eAZSqMz9zCTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\LabEncapsulation\\FootballTeamGenerator\\FootballTeamGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

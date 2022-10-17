@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Fi+CMgAJwRv6Xl4yly0UjjPalmIg76phhF8s/RTjhqm7+ijD9rGj5A2EXQA8HIoLLwJI1PWjenqW1d+pMXcjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\LabEncapsulation\\E01ClassBoxData\\E01ClassBoxData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

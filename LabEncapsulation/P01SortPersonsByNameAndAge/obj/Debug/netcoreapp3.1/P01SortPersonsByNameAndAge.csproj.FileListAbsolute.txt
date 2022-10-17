@@ -1,0 +1,14 @@
+C:\Users\skgos\source\repos\LabEncapsulation\P01SortPersonsByNameAndAge\bin\Debug\netcoreapp3.1\P01SortPersonsByNameAndAge.exe
+C:\Users\skgos\source\repos\LabEncapsulation\P01SortPersonsByNameAndAge\bin\Debug\netcoreapp3.1\P01SortPersonsByNameAndAge.deps.json
+C:\Users\skgos\source\repos\LabEncapsulation\P01SortPersonsByNameAndAge\bin\Debug\netcoreapp3.1\P01SortPersonsByNameAndAge.runtimeconfig.json
+C:\Users\skgos\source\repos\LabEncapsulation\P01SortPersonsByNameAndAge\bin\Debug\netcoreapp3.1\P01SortPersonsByNameAndAge.runtimeconfig.dev.json
+C:\Users\skgos\source\repos\LabEncapsulation\P01SortPersonsByNameAndAge\bin\Debug\netcoreapp3.1\P01SortPersonsByNameAndAge.dll
+C:\Users\skgos\source\repos\LabEncapsulation\P01SortPersonsByNameAndAge\bin\Debug\netcoreapp3.1\P01SortPersonsByNameAndAge.pdb
+C:\Users\skgos\source\repos\LabEncapsulation\P01SortPersonsByNameAndAge\obj\Debug\netcoreapp3.1\P01SortPersonsByNameAndAge.csproj.AssemblyReference.cache
+C:\Users\skgos\source\repos\LabEncapsulation\P01SortPersonsByNameAndAge\obj\Debug\netcoreapp3.1\P01SortPersonsByNameAndAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skgos\source\repos\LabEncapsulation\P01SortPersonsByNameAndAge\obj\Debug\netcoreapp3.1\P01SortPersonsByNameAndAge.AssemblyInfoInputs.cache
+C:\Users\skgos\source\repos\LabEncapsulation\P01SortPersonsByNameAndAge\obj\Debug\netcoreapp3.1\P01SortPersonsByNameAndAge.AssemblyInfo.cs
+C:\Users\skgos\source\repos\LabEncapsulation\P01SortPersonsByNameAndAge\obj\Debug\netcoreapp3.1\P01SortPersonsByNameAndAge.csproj.CoreCompileInputs.cache
+C:\Users\skgos\source\repos\LabEncapsulation\P01SortPersonsByNameAndAge\obj\Debug\netcoreapp3.1\P01SortPersonsByNameAndAge.dll
+C:\Users\skgos\source\repos\LabEncapsulation\P01SortPersonsByNameAndAge\obj\Debug\netcoreapp3.1\P01SortPersonsByNameAndAge.pdb
+C:\Users\skgos\source\repos\LabEncapsulation\P01SortPersonsByNameAndAge\obj\Debug\netcoreapp3.1\P01SortPersonsByNameAndAge.genruntimeconfig.cache

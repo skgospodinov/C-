@@ -1,0 +1,14 @@
+C:\Users\skgos\source\repos\LabEncapsulation\E01ClassBoxData\bin\Debug\netcoreapp3.1\E01ClassBoxData.exe
+C:\Users\skgos\source\repos\LabEncapsulation\E01ClassBoxData\bin\Debug\netcoreapp3.1\E01ClassBoxData.deps.json
+C:\Users\skgos\source\repos\LabEncapsulation\E01ClassBoxData\bin\Debug\netcoreapp3.1\E01ClassBoxData.runtimeconfig.json
+C:\Users\skgos\source\repos\LabEncapsulation\E01ClassBoxData\bin\Debug\netcoreapp3.1\E01ClassBoxData.runtimeconfig.dev.json
+C:\Users\skgos\source\repos\LabEncapsulation\E01ClassBoxData\bin\Debug\netcoreapp3.1\E01ClassBoxData.dll
+C:\Users\skgos\source\repos\LabEncapsulation\E01ClassBoxData\bin\Debug\netcoreapp3.1\E01ClassBoxData.pdb
+C:\Users\skgos\source\repos\LabEncapsulation\E01ClassBoxData\obj\Debug\netcoreapp3.1\E01ClassBoxData.csproj.AssemblyReference.cache
+C:\Users\skgos\source\repos\LabEncapsulation\E01ClassBoxData\obj\Debug\netcoreapp3.1\E01ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skgos\source\repos\LabEncapsulation\E01ClassBoxData\obj\Debug\netcoreapp3.1\E01ClassBoxData.AssemblyInfoInputs.cache
+C:\Users\skgos\source\repos\LabEncapsulation\E01ClassBoxData\obj\Debug\netcoreapp3.1\E01ClassBoxData.AssemblyInfo.cs
+C:\Users\skgos\source\repos\LabEncapsulation\E01ClassBoxData\obj\Debug\netcoreapp3.1\E01ClassBoxData.csproj.CoreCompileInputs.cache
+C:\Users\skgos\source\repos\LabEncapsulation\E01ClassBoxData\obj\Debug\netcoreapp3.1\E01ClassBoxData.dll
+C:\Users\skgos\source\repos\LabEncapsulation\E01ClassBoxData\obj\Debug\netcoreapp3.1\E01ClassBoxData.pdb
+C:\Users\skgos\source\repos\LabEncapsulation\E01ClassBoxData\obj\Debug\netcoreapp3.1\E01ClassBoxData.genruntimeconfig.cache

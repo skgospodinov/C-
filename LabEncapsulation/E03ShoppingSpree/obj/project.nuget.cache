@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b30wzRlmFAHR89ZKci0JxZx2g4ZzSVeiWFeOi3pxjW9nJ8pO+eqPpCOp5+OT/ujBnPNqyorjL8AgXnu7w99EmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\LabEncapsulation\\E03ShoppingSpree\\E03ShoppingSpree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P143llc1P016fqLxaEccl/CpoODM+njfBB9bVMLYxgG5PY6p7+goEWNxoJNLiMlXWyarEk6qLJzkqdae580rpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skgos\\source\\repos\\LabEncapsulation\\E02AnimalFarm\\E02AnimalFarm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skgos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

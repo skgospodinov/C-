@@ -1,0 +1,14 @@
+C:\Users\skgos\source\repos\LabEncapsulation\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.exe
+C:\Users\skgos\source\repos\LabEncapsulation\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.deps.json
+C:\Users\skgos\source\repos\LabEncapsulation\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.runtimeconfig.json
+C:\Users\skgos\source\repos\LabEncapsulation\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.runtimeconfig.dev.json
+C:\Users\skgos\source\repos\LabEncapsulation\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.dll
+C:\Users\skgos\source\repos\LabEncapsulation\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.pdb
+C:\Users\skgos\source\repos\LabEncapsulation\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.csproj.AssemblyReference.cache
+C:\Users\skgos\source\repos\LabEncapsulation\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skgos\source\repos\LabEncapsulation\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.AssemblyInfoInputs.cache
+C:\Users\skgos\source\repos\LabEncapsulation\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.AssemblyInfo.cs
+C:\Users\skgos\source\repos\LabEncapsulation\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.csproj.CoreCompileInputs.cache
+C:\Users\skgos\source\repos\LabEncapsulation\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.dll
+C:\Users\skgos\source\repos\LabEncapsulation\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.pdb
+C:\Users\skgos\source\repos\LabEncapsulation\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.genruntimeconfig.cache
